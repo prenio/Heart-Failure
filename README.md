@@ -1,2 +1,2 @@
 # Heart-Failure
-Project done on heart failure data. Method used: Naive Bayes Classification.
+Project done on heart failure data. Methods used: Naive Bayes classification, decision tree classification, Random Forest classification.
